@@ -24,5 +24,6 @@ go.work
 # Local env
 .DS_Store
 .idea
+.vscode
 data
 bin
